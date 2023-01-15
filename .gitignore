@@ -1,0 +1,17 @@
+# Figures
+*.eps
+/*eps
+
+# LaTeX temporary files
+*.aux
+*.gz
+*.out
+*.log
+*.blg
+*.bbl
+*.xml
+*-blx.bib
+*.DS_Store
+*.fdb_latexmk
+*.fls
+*.zip
